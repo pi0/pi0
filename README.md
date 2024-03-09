@@ -20,3 +20,4 @@
 
 💪 [titangmz](https://github.com/titangmz) is my real bro, [atinux](https://github.com/Atinux) is my coding bro.
 
+<sub>[(edit)](https://github.com/pi0/pi0/edit/main/README.md)</sub>
