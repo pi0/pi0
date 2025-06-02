@@ -4,4 +4,4 @@ I've been contributing to open source since 2014 and now work as a full-time ope
 
 I'm the creator and maintainer of [Nitro](https://nitro.build/), [H3](https://h3.dev/), and the [UnJS](https://github.com/unjs) collection, and I've been contributing to [Nuxt](https://nuxt.com) since 2017.
 
-You can learn more about me on my website → [https://pi0.io](https://pi0.io/)
+You can find more about me on my website → [https://pi0.io](https://pi0.io/)
